@@ -3,8 +3,14 @@
         [
             "@babel/preset-env"
         ],
-        "@babel/preset-react"
+        "@babel/preset-react",
+        [
+            "env", {
+                "modules": false
+            }
+        ]
     ],
+    "cacheDirectory": true,
     "plugins": [
         "@babel/plugin-syntax-dynamic-import"
     ]
