@@ -14,7 +14,7 @@
     "watch": "webpack --watch"
   },
   "keywords": [],
-  "author": "",
+  "author": "CoolSummer",
   "license": "ISC",
   "devDependencies": {
     "@babel/core": "^7.9.0",
