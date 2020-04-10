@@ -11,6 +11,7 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "build": "webpack --config ./lib/webpack.config.js",
     "start": "webpack-dev-server --config ./lib/webpack.config.js",
+    "dll": "webpack --config ./lib/webpack.dll.js",
     "watch": "webpack --watch"
   },
   "keywords": [],
