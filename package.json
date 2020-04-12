@@ -1,7 +1,7 @@
 {
   "name": "webpack-build-project",
-  "version": "1.0.0",
-  "description": "[![](https://img.shields.io/travis/cpselvis/builder-webpack.svg)](https://travis-ci.com/cpselvis/builder-webpack)",
+  "version": "1.1.0",
+  "description": "",
   "main": "index.js",
   "directories": {
     "lib": "lib",
@@ -60,6 +60,5 @@
     "webpack-cli": "^3.3.11",
     "webpack-dev-server": "^3.10.3",
     "webpack-merge": "^4.2.2"
-  },
-  "proxy": "localhost:3000"
+  }
 }

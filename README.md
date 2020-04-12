@@ -1,7 +1,4 @@
-# builder-webpack
-
-[![](https://img.shields.io/travis/cpselvis/builder-webpack.svg)](https://travis-ci.com/cpselvis/builder-webpack)
-
-webpack project
+### webpack-build-webpack
+#### https://github.com/karma2014/webpack-build-project
 
 
